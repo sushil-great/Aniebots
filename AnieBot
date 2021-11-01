@@ -30,13 +30,13 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    AURAXPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    ANIEPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $AURAXPATH
+    cd $ANIEXPATH
     echo "    Starting AnieXBot    "
     echo "
     ┏━━━┓          ┏┓    ┏┓
