@@ -18,7 +18,7 @@
 <h3> StringSession </h3>
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@iisgaurav/AuraXBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@denvilop/Aniebots#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -69,7 +69,7 @@ notifications in Update Channel.
 
 ![LICENSE](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 iisgaurav
+Copyright (C) 2021 d3nvil 
 
 Poject [AnieXBot](https://github.com/AnieTeam/Anie-userbot) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
 
