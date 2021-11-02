@@ -14,9 +14,9 @@ _get_repolink () {
     then
         if [[ $ANIEX_REPO_BRANCH ]]
         then
-            echo "${AURAX_REPO}/archive/${AURAX_REPO_BRANCH}.zip"
+            echo "${ANIEX_REPO}/archive/${AURAX_REPO_BRANCH}.zip"
         else
-            echo "${AURAX_REPO}/archive/master.zip"
+            echo "${ANIEX_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL2lpc2dhdXJhdi9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
