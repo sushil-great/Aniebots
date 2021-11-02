@@ -1,7 +1,7 @@
 {
-  "name": "AuraXUserbot",
-  "description": "The best userbot made by @iisgaurav. Made with Love... ❤ For Support Join @AuraXUserbot ",
-  "logo": "https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg",
+  "name": "Anie Userbot",
+  "description": "The best userbot made by @d3nvil. Made with Love... ❤ For Support Join @Aniebots ",
+  "logo": "https://telegra.ph/file/5d7a1a5d027e6c27d6de5.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/iisgaurav/AuraXBot/",
-  "website": "https://github.com/iisgaurav/AuraXBot/",
-  "success_url": "https://t.me/AuraXUserbot",
+  "repository": "https://github.com/Anieteam/Anie-userbot/",
+  "website": "https://github.com/Anieteam/Anie-userbot/",
+  "success_url": "https://t.me/Aniebotsupports",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,27 +24,27 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is AuraX User",
-      "value": "AuraX User",
+      "value": "Anie User",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Command.",
-      "value": "🎃 AuraXBot Is Alive 🎃",
+      "value": "🎃 Aniebot Is Alive 🎃",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive command.",
-      "value": "https://telegra.ph/file/26d8a8ed64744af0d1d96.mp4",
+      "value": "https://telegra.ph/file/5d7a1a5d027e6c27d6de5.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "POWERFUL PEOPLE COMES FROM POWERFUL PLACES !! AuraXBot ✨",
+      "value": "POWERFUL PEOPLE COMES FROM POWERFUL PLACES !! Aniebot ✨",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/19394b52001265d943584.mp4",
+      "value": "https://telegra.ph/file/5d7a1a5d027e6c27d6de5.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -107,7 +107,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/itzgauravv/AuraXBot#main.py ",
+      "description": "Get this value by running https://repl.it/@denvilop/AnieBots#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
