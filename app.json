@@ -166,6 +166,10 @@
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
       "required": false 
+    },
+    "UPSTREAM_REPO_URL": { 
+      "description": "Required for Update module", 
+      "required": true, "value": "https://github.com/TeamEviral/HaritaRobot" }
     }
   },
   "addons": [
