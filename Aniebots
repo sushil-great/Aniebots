@@ -1,0 +1,50 @@
+#!/bin/bash
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $ANIE_REPO == "Aniebots" ]]
+    then
+        echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA==" | base64 -d
+    elif [[ $ANIE_REPO == "Aniebots" ]]
+    then
+        echo =aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    elif [[ $ANIE_REPO =~ $regex ]]
+    then
+        if [[ $ANIE_REPO_BRANCH ]]
+        then
+            echo "${ANIE_REPO}/archive/${ANIE_REPO_BRANCH}.zip"
+        else
+            echo "${ANIE_REPO}/archive/master.zip"
+        fi
+    else
+        echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    fi
+}
+
+
+_set_bot () {
+    local zippath
+    zippath="Aniebots.zip"
+    echo "  Downloading source code ..."
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  Unpacking Data ..."
+    ANIEPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo "Done"
+    echo "  Cleaning ..."
+    rm -rf "$zippath"
+    sleep 5
+    cd $ANIEPATH
+    echo "    Starting Aniebots    "
+    echo "
+                          ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
+                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔
+    "
+
+    python3 ./setup/updater.py ./requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_set_bot
