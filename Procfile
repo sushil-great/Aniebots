@@ -1,1 +1,1 @@
-worker: bash Aniebot
+worker: bash userbot
