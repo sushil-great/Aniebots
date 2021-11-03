@@ -1,13 +1,13 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Anieteam/Aniebot.git /root/Aniebot
+RUN git clone https://github.com/Anieteam/Aniebot.git /root/userbot
 #working directory 
-WORKDIR /root/Aniebot
+WORKDIR /root/userbot
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
-ENV PATH="/home/Aniebot/bin:$PATH"
+ENV PATH="/home/userbot/bin:$PATH"
 
-CMD ["python3","-m","Aniebot"]
+CMD ["python3","-m","userbot"]
