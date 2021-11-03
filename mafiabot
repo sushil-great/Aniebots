@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "Aniebots" ]]
+    if [[ $ANIE_REPO == "Aniebots" ]]
     then
         echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $MAFIA_REPO == "ANIEBOTS" ]]
+    elif [[ $ANIE_REPO == "Aniebots" ]]
     then
         echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $MAFIA_REPO =~ $regex ]]
+    elif [[ $ANIE_REPO =~ $regex ]]
     then
-        if [[ $MAFIA_REPO_BRANCH ]]
+        if [[ $ANIE_REPO_BRANCH ]]
         then
-            echo "${MAFIA_REPO}/archive/${MAFIA_REPO_BRANCH}.zip"
+            echo "${ANIE_REPO}/archive/${ANIR_REPO_BRANCH}.zip"
         else
-            echo "${MAFIA_REPO}/archive/master.zip"
+            echo "$ANIE_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
@@ -30,7 +30,7 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    MAFIAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    ANIEPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
