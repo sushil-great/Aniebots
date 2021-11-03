@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $ANIEX_REPO == "Anie-userbot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0FuaWV0ZWFtL0FuaWVib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $ANIEX_REPO == "Anie-userbot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0FuaWV0ZWFtL0FuaWVib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $ANIEX_REPO =~ $regex ]]
     then
         if [[ $ANIEX_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${ANIEX_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0FuaWV0ZWFtL0FuaWVib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cDovL2dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
 
@@ -37,7 +37,7 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $ANIEXPATH
-    echo "    Starting Userbot    "
+    echo "    Starting Anie-Userbot    "
     echo "
     ┏━━━┓          ┏┓    ┏┓
     ┃┏━┓┃          ┃┃   ┏┛┗┓
@@ -49,7 +49,7 @@ _set_bot () {
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m userbot
+    python3 -m Anie-Userbot
 }
 
 _set_bot
