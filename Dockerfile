@@ -1,13 +1,16 @@
-FROM shiwabot/Aniebot:alpine
+FROM H1M4N5HU0P/MAFIA-USERBOT:latest
 
-#clonning repo 
-RUN git clone https://github.com/Shiwabot/Aniebot.git /root/Anie-Userbot 
-#working directory 
-WORKDIR /root/Anie-Userbot
+# clonning repo 
+RUN git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git /root/userbot
+
+RUN pip install --upgrade pip
+
+# working directory 
+WORKDIR /root/userbot
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
-ENV PATH="/home/Anie-Userbot/bin:$PATH"
+ENV PATH="/home/userbot/bin:$PATH"
 
-CMD ["python3","-m","Anie-Userbot"]
+CMD ["python3","-m","userbot"]
