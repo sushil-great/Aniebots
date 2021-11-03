@@ -39,9 +39,7 @@ _set_bot () {
     cd $ANIEPATH
     echo "    Starting Aniebots    "
     echo "
-                          ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
-                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔
-    "
+           
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
     python3 -m userbot
