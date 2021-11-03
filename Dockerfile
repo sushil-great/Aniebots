@@ -1,9 +1,9 @@
-FROM sandy1709/catuserbot:alpine
+FROM shiwabot/Aniebot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Anieteam/Aniebot.git /root/Anie-Userbot 
+RUN git clone https://github.com/Shiwabot/Aniebot.git /root/Anie-Userbot 
 #working directory 
-WORKDIR /root/userbot
+WORKDIR /root/Anie-Userbot
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
