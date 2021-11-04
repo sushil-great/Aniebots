@@ -1,7 +1,7 @@
 {
-  "name": "Meowbot",
-  "description": "Meowẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/3c2932815330a143fa1a8.png",
+  "name": "Aniebots",
+  "description": "🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃 is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/5d7a1a5d027e6c27d6de5.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/kaal0408/MeowBot/",
+  "repository": "https://github.com/Anieteam/Aniebots/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -23,12 +23,12 @@
       "required": false
     },
     "PROFANITY": {
-      "description": "Leave it blank if you dont want Profanity in MeowBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in Aniebot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @Meow_userbot",
+      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @Aniebots",
       "value": "",
       "required": false
     },
@@ -78,7 +78,7 @@
     },
     "SUDO_USERS": {
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
-      "value": "804329190",
+      "value": "908169597",
       "required": false
     }
   },
