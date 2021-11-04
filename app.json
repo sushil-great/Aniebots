@@ -56,7 +56,7 @@
       "description": "Create a private channel. And get it's id from @MEOW_ID_BOT and paste here. Value should start with -100",
       "value": ""
     },
-    "STRING_SESSION": {
+    "ANIEBOTS_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
