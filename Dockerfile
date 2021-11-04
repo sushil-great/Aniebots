@@ -1,16 +1,14 @@
-FROM shiwabot/Aniebot:latest
+FROM kaal0407/Meowbot:latest
 
-# clonning repo 
-RUN git clone https://github.com/shiwabot/Aniebot.git /root/userbot
+#clonning repo 
+RUN git clone https://github.com/kaal0408/Meowuserbot.git /root/Meowbot
 
-RUN pip install --upgrade pip
-
-# working directory 
-WORKDIR /root/userbot
+#working directory 
+WORKDIR /root/Meowbot
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
 ENV PATH="/home/userbot/bin:$PATH"
 
-CMD ["python3","-m","userbot"]
+CMD ["python3","-m","Meowbot"]

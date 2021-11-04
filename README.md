@@ -1,92 +1,43 @@
-<h1 align="center">⚡ 𝐀NIE USERBOT ⚡</h1>
 
-[![ANIEBot logo](https://telegra.ph/file/7944090b9aca51ef8f562.jpg)](https://t.me/ANIEBOTSUPPORTS)
-
-<h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
-<h2 align ="center">Don't forget to star this repo if you liked it.!!💝</h2>
-
-<h1 align="center">FORK AT YOUR OWN RISK</h1>
-
-<h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
+<h2 align="center"><b>OwNeR <a href="https://telegram.dog/Murat_30_God ">『 Manjeet』』</a></b></h2>
+# MeowUserbor
+> Telethon based userbot (•~•)
+<h1 align="center">⚡Meow-Userbot⚡</h1>
 
 
-<h3> DEPLOY TO HEROKU </h3>
+[![Meow userbot logo](https://telegra.ph/file/3c2932815330a143fa1a8.png)](https://t.me/Meow_userbot)
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAnieteam%2FAnie-userbot&template=https%3A%2F%2Fgithub.com%2FAnieteam%2FAnie-userbot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<h2 align="center">USERBOT</h2>
+
+
+<h1 align="center">⚙️ DEPLOYING ⚙️</h1>
+
+
+
+    
+
+
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkaal0408%2FMeowbot&template=https%3A%2F%2Fgithub.com%2Fkaal0408%2FMeowbot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
-<h3> StringSession </h3>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKaal0408%2FMeowuserbot&plugins=postgresql&envs=API_HASH%2CAPP_ID%2CMEOWBOT_SESSION%2CBOT_TOKEN%2CBOT_USERNAME%2CLOGGER_ID%2CHANDLER%2CENV&optionalEnvs=ABUSE%2CHANDLER%2CENV&API_HASHDesc=Get+it+from+my.telegram.org%2Fapi&APP_IDDesc=Get+it+from+my.telegram.org%2Fapi&MEOWBOT_SESSIONDesc=Fill+your+String+session&BOT_TOKENDesc=Bot+token+from+%40Botfather&BOT_USERNAMEDesc=Bot+username+from+%40Botfather&LOGGER_IDDesc=Create+a+channel+and+get+it%27s+id+from+%40Meow_Id_Bot&HANDLERDesc=Your+command+handler.+Default+value+is+%22.%22&ENVDesc=Leave+it+as+it+is&referralCode=n738VA)
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@denvilop/Aniebots#main.py) 
+ <h1 align="center">💫String Session💫</h1>
 
-    - Click On Generate String
-    - Then Click On Green Run Button.
-    - Wait for a while then fill the details.
-    - String will be saved in your Saved Message.
-
-
-<h1 align="center">TO HOST  A N I E X B O T LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
-
-<h2 align="center"> <a href="https://github.com/ANIE/ANIEBOT">⚡ A N I E X U S E R B O T  ⚡</a></h2>
-
-## Mandatory Vars
-
-- Only two of the environment variables are mandatory.
-
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-
-    - `APP_ID`:   You can get this value from https://my.telegram.org
-
-    - `API_HASH`:   You can get this value from https://my.telegram.org
-
-- The userbot will not work without setting the mandatory vars.
-
-
-### Official Supports ✅ 
-
-
-```
-Get help regarding setting up 
-
-your AnieXBot in our official 
-
-support Group and get updates
-
-notifications in Update Channel.
-```
-
-<a href="https://t.me/Aniebotsupports"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-<a href="https://t.me/Aniebots"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/d3nvil)
+ [![Run on Repl.it](https://repl.it/badge/github/kaal0408/Lucifer-X&theme=midnight-purple)](https://replit.com/@Lightyagami788/LUCIFER-REPL#main.py)
 
 
 
-<h2> • LICENSE • </h2>
+<h3 align="center"> ✨OFFICIAL SUPPORT✨</h3>
 
-![LICENSE](https://www.gnu.org/graphics/gplv3-or-later.png)
+<a href="https://t.me/LuciferXUpdates"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-Copyright (C) 2021 d3nvil 
-
-Poject [AnieXBot](https://github.com/AnieTeam/Anie-userbot) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
+<a href="https://t.me/Meow_userbot"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
 
-  <h2> • Credits 🏅 • </h2>
-
-• [JaaduBot](https://github.com/Amberyt/JaaduBot)
-
-• [CatUserbot](https://github.com/sandy1709/catuserbot)
-
-• [MafiaBot](https://github.com/H1M4N5HU0P/MAFIA-BOT)
-
-• [HellBot](https://github.com/Hellboy-OP/hellbot)
-
-• [Uniborg](https://github.com/spechide/uniborg)
 
 
 
