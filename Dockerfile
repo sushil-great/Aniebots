@@ -1,14 +1,14 @@
-FROM kaal0407/Meowbot:latest
+FROM Anieteam/Aniebots:latest
 
 #clonning repo 
-RUN git clone https://github.com/kaal0408/Meowuserbot.git /root/Meowbot
+RUN git clone https://github.com/Anieteam/Aniebots.git /root/Aniebots
 
 #working directory 
-WORKDIR /root/Meowbot
+WORKDIR /root/Aniebots 
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
 ENV PATH="/home/userbot/bin:$PATH"
 
-CMD ["python3","-m","Meowbot"]
+CMD ["python3","-m","Aniebots"]
