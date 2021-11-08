@@ -3,7 +3,7 @@ from telethon.sync import TelegramClient
 mafia = input("✵ Enter y/yes to continue: ")
 if mafia == 'y' or 'yes':
  print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 𒊹︎︎︎ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ɪs ➪➪ https://github.com/MafiaBotOP/MafiaBot")
-print("""\n\nWelcome To MafiaBot String Session\nGenerator By @H1M4N5HU0P\n\n""")
+print("""\n\nWelcome To Aniebot String Session\nGenerator By @d3nvil \n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -23,7 +23,7 @@ while True:
             )
 
             print(
-                "Thanks for Choosing MafiaBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing Aniebot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
