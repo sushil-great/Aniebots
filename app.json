@@ -99,11 +99,11 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@Aniebots"
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "value": "https://telegra.ph/file/28c979a7a36c344da3e07.jpg",
       "required": false 
     },
     "EMOJI_IN_HELP": {
