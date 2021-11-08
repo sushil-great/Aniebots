@@ -16,7 +16,7 @@ _repolink () {
         then
             echo "${ANIE_REPO}/archive/${MEOW_REPO_BRANCH}.zip"
         else
-            echo "${ANIE_REPO}/archive/master.zip"
+            echo "${ANIE_REPO}/archive/main.zip"
         fi
     else
         echo "aHR0cDovL0dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21haW4uemlw" | base64 -d
@@ -39,7 +39,7 @@ start_bot () {
     echo "  • Starting Aniebots •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m Aniebots 
+    python3 -m userbot 
 }
 
 start_bot
