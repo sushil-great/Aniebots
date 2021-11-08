@@ -10,7 +10,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 Aniebots made by @d3nvil. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/Aniebotsupports THANKS FOR VISITING OUR REPO💖
-[![Aniebots LOGO](https://https://telegra.ph/file/5d7a1a5d027e6c27d6de5.jpg)](https://t.me/Aniebotsupports)
+[![Aniebots LOGO](https://telegra.ph/file/28c979a7a36c344da3e07.jpg)](https://t.me/Aniebotsupports)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
