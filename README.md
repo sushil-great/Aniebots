@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/indianbhaiya/IndianBot/blob/master/.github/newlogo.png">
+<img src="https://github.com/Anieteam/Aniebots/blob/main/.github/newlogo.png">
 
 # Will Re-Start Again In 1 Day!!
 
