@@ -1,59 +1,37 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/shiwabot/Aniebot/dashboard)
-[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/Aniebot)
-[![HitCount](http://hits.dwyl.com/shiwabot/Aniebot.svg)](http://hits.dwyl.com/shiwabot/Aniebot)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/d3nvil)
+<p align="center">
+<img src="https://github.com/indianbhaiya/IndianBot/blob/master/.github/newlogo.png">
 
+# Will Re-Start Again In 1 Day!!
 
+Best User Bot To Manage Your Telegram Account 😉
 
-# 𝚃𝙷𝙴 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
+## Most PowerFul And Better And Secure !
 
-Aniebots made by @d3nvil. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/Aniebotsupports THANKS FOR VISITING OUR REPO💖
-[![Aniebots LOGO](https://telegra.ph/file/28c979a7a36c344da3e07.jpg)](https://t.me/Aniebotsupports)
+For any query or want to know how it works join 👇👇
 
+### <a href="https://t.me/indianbot_official"><img src="https://raw.githubusercontent.com/indianbhaiya/IndianBot/master/.github/button%20(7).png"></a>
 
-# The owner would not be responsible for any kind of bans due to the bot...
+## FORK AT YOUR OWN RISK !
 
+## Don't Forget To Give A Star ⭐
 
-<details>
+<p align="center">
+<img src="https://github.com/indianbhaiya/IndianBot/blob/master/.github/usersec.png">
 
-  <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/Aniebotsupports">☢️JOIN ANIEBOT SUPPORT☢️</a></h2>
+# <a href="https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot"><img src="https://raw.githubusercontent.com/indianbhaiya/IndianBot/master/.github/button%20(8).png"></a>
 
-</details>
+## GET STRING SESSION FROM REPL RUN
 
+### <a href="https://indianbotstringsetup.pureindialover.repl.run"><img src="https://raw.githubusercontent.com/indianbhaiya/IndianBot/master/.github/button%20(9).png"></a>
 
-# FORK AT YOUR OWN RISK
-
-<details>
-
-  <summary> • INSTALLING • </summary>
-
-### The Easy Way
-
-<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
-
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAnieteam%2FAniebots&template=https%3A%2F%2Fgithub.com%2FAnieteam%2FAniebots" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-
-</details>
-
-<details>
-
-  <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
-
-</details>
-
-<details>
-
-  <summary> • THE NORMAL WAY • </summary>
+<p align="center">
+<img src="https://github.com/indianbhaiya/IndianBot/blob/master/.github/devsec.png">
 
 Simply clone the repository and run the main file:
-```sh
-git clone https://github.com/shiwabot/Aniebot.git
-cd Aniebots 
+
+```bash
+git clone https://github.com/indianbhaiya/IndianBot
+cd Indianbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -65,71 +43,63 @@ An example `local_config.py` file could be:
 
 **Not All of the variables are mandatory**
 
-__The Userbot should work by setting only the first two variables__
+**The Userbot should work by setting only the first two variables**
 
 ```python3
 from heroku_config import Var
 
 class Development(Var):
   APP_ID = 6
+  # 6 is the length of api id
   API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  # Use Your Own Api Hash
 ```
 
-</details>
-
-<details>
-
-  <summary> • UNIBORG CONFIGURATION • </summary>
+### UniBorg Configuration
 
 The UniBorg Config is situated in `userbot/uniborgConfig.py`.
 
-**Heroku Configuration**
-Simply just leave the Config as it is.
+**Heroku Configuration** Simply just leave the Config as it is.
 
-**Local Configuration**
-Fortunately there are no Mandatory vars for the UniBorg Support Config.
+**Local Configuration** Fortunately there are no Mandatory vars for the UniBorg
+Support Config.
 
-</details>
-
-<details>
-
-  <summary> • MANDATORY VARS • </summary>
+## Mandatory Vars
 
 - Only two of the environment variables are mandatory.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-    - `APP_ID`:   You can get this value from https://my.telegram.org
-    - `API_HASH`:   You can get this value from https://my.telegram.org
+  - `APP_ID`: You can get this value from https://my.telegram.org
+  - `API_HASH`: You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
 
+<p align="center">
+<img src="https://github.com/indianbhaiya/IndianBot/blob/master/.github/lic.png">
 
-</details>
+```Python3
+MIT License
 
-<details>
+Copyright (c) 2020 IndianBot
 
-  <summary> • LICENSE • </summary>
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Copyright (C) 2021 d3nvil 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Poject [AnieBOT](https://github.com/shiwabot/Aniebot) is free software: you can redistribute it and/or modify
+EXCLUDE THIS -- U MUST STOP USING THE USERBOT WHEN_EVER WE SAY OR IT WILL GO
+AGAINST THE LICENSE!!
 
-it under the terms of the GNU General Public License as published by
+```
 
-the Free Software Foundation, either version 3 of the License, or
-
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</details>
+```
