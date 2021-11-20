@@ -1,6 +1,6 @@
 {
   "name": "🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃",
-  "description": "The Aniebot made by @d3nvil special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @Aniebotsupports",
+  "description": "The Aniebot made by @d3nvil special thanks to respective anon owner @noobanon. Join for updates related info @Aniebotsupports",
   "logo": "https://telegra.ph/file/28c979a7a36c344da3e07.jpg",
     "keywords": [
     "telegram",
@@ -59,7 +59,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": ""
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
@@ -73,7 +73,7 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": ""
     },
     "ANIEBOTS_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
