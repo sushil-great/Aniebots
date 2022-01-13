@@ -1,46 +1,46 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『🅰🅽🅸🅴🆄🆂🅴🆁🅱🅾🆃』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![ANIEBOT](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://github.com/Anieteam/Aniebots)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ AnieBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/Anieteam/Aniebots" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Anieteam/Aniebots?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Anieteam/Aniebots/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Anieteam/Aniebots?style=flat&logo=github" /> </a>
+<a href="https://github.com/Anieteam/Aniebots/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Anieteam/Aniebots?label=Forks&logo=github" /> </a>
+<a href="https://github.com/Anieteam/Aniebots" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Anieteam/Aniebots?color=success" /> </a>
+<a href="https://github.com/Anieteam/Aniebots" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Anieteam/Aniebots?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/Anieteam/Aniebots" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/Anieteam/Aniebots" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Anieteam/Aniebots" /> </a>
+<a href="https://github.com/Anieteam/Aniebots/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/Aniebots" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/Anieteam/Aniebots/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
 ## Status Of Bot 
-<p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+<p align="left">Anieteam/Aniebots
+    <a href="https://github.com/Anieteam/Aniebots/network/members"><img src="https://img.shields.io/github/forks/Anieteam/Aniebots?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Anieteam/Aniebots/stargazers"><img src="https://img.shields.io/github/stars/Anieteam/Aniebots?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/"></a><p align="left"><a href="https://github.com/Anieteam/Aniebots?"></a>
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Aniebots)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Aniebotsupports)
 
 ------
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/T9ojWwGYBtw?style=social)](https://youtube.com/channel/T9ojWwGYBtw)
+- [![YouTube Video Views](https://img.shields.io/youtube/views/T9ojWwGYBtw?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/T9ojWwGYBtw)
 
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
@@ -57,16 +57,16 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/Anieteam/Aniebots.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd ANIEUSERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -77,7 +77,7 @@
 `pip install -U -r requirements.txt`
 - Generate Legend STRING.
 
-`python LegendString.py`
+`python AnieString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
@@ -89,7 +89,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `ANIE_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -110,7 +110,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://replit.com/@Denvilop/ANIEBOTS#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -146,9 +146,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+ANIEUB
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [ANIEBOT](https://github.com/Anieteam/Aniebots) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
