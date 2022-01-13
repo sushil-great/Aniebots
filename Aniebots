@@ -1,0 +1,48 @@
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $ANIE_REPO == "ANIEBOTS" ]]
+    then
+        echo "aHR0cDovL0dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21haW4uemlw=" | base64 -d
+    elif [[ $ANIE_REPO == "ANIEBOTS" ]]
+    then
+        echo "aHR0cDovL0dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21haW4uemlw=" | base64 -d
+    elif [[ $ANIE_REPO =~ $regex ]]
+    then
+        if [[ $ANIE_REPO_BRANCH ]]
+        then
+            echo "${ANIE_REPO}/archive/${ANIE_REPO_BRANCH}.zip"
+        else
+            echo "${ANIE_REPO}/archive/main.zip"
+        fi
+    else
+        echo "aHR0cDovL0dpdGh1Yi5jb20vc2hpd2Fib3QvQW5pZWJvdC9hcmNoaXZlL21haW4uemlw==" | base64 -d
+    fi
+}
+
+
+_setting_bot () {
+    local zippath
+    zippath="Aniebots.zip"
+    echo "  Downloading AnieBot V3.O Source Code..."
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  Unpacking Data ..."
+    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo "Done"
+    echo "  AnirBot V3.O Cleaning.."
+    rm -rf "$zippath"
+    sleep 5
+    cd $LEGENDPATH
+    echo "    ⚜️Starting 🇦 🇳 🇮 🇪 🇺 🇧⚜️     "
+    echo "
+    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+    "
+
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_setting_bot
