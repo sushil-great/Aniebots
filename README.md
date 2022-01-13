@@ -1,24 +1,116 @@
-<h1 align="center">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃 ⚡</h1>
+<h1 align="center">
+<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+</h1>
 
-[![Aniebots logo](https://telegra.ph/file/28c979a7a36c344da3e07.jpg)](https://t.me/Aniebotsupports)
+[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
-<h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
-<h2 align ="center">Don't forget to star this repo if you liked it.!!💝</h2>
+<h6 align="center">
+  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+</h6>
 
-<h1 align="center">FORK AT YOUR OWN RISK</h1>
+<p align="center">
+<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+</p>
+<p align="center">
+<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+</p>
+<p align="center">
+<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
+</p>
 
-<h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
+------
+## Status Of Bot 
+<p align="left">
+    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
 
+------
+## Telegram 🏪
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
 
-<h3> DEPLOY TO HEROKU </h3>
+------
+## YouTube 📺
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
+- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAnieteam%2FAniebots&template=https%3A%2F%2Fgithub.com%2FAnieteam%2FAniebots" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+------------
+<h3> Dєρℓογ το нєяοκυ </h3>
+
+## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
+
+<a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
-<h3> StringSession </h3>
+- First Fork This Repo
+
+- Change Name Of Repo
+
+- Click Below Deploy To Heroku
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Denvilop/Aniebots#main.py) 
+- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+
+## Deploy Locally
+
+- Clone the repo. 
+
+`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+- Open Cloned Folder.
+
+`cd LEGENDUSERBOT`
+- Create VirtualEnv.
+
+`virtualenv -p /usr/bin/python3 venv`
+
+`. ./venv/bin/activate`
+- Install Requirements.
+
+`pip install -U -r requirements.txt`
+- Generate Legend STRING.
+
+`python LegendString.py`
+- Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
+- Finally Start LegendBot By Vps
+
+`bash ./LEGENDBOT/start.sh`
+
+---------
+
+## Variables
+
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `LOGGER_ID`  =  Make A Channel And Get it's ID.
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
+
+------
+### Repl
+
+
+    -To Get Details Of StringSession Follow Step: 
+
+    - Go To Telegram And Search @UseTGXBot
+    - Click Start
+    - Send Ur Phone Number To @UseTGXBot
+    - U Received Code From Telegram Like This=VGFK0rHbzaF
+    - Copy Ur Code
+    - Paste Ur Code in @UseTGXBot
+    - U Received APP ID
+    - Now Run StringSession Given Below:
+   
+
+[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -26,67 +118,54 @@
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST  A N I E B O T LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+### Terminal
+- Open the terminal.
+- Paste this code.
 
-<h2 align="center"> <a href="https://github.com/Anieteam/Aniebots">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃  ⚡</a></h2>
-
-## Mandatory Vars
-
-- Only two of the environment variables are mandatory.
-
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-
-    - `APP_ID`:   You can get this value from https://my.telegram.org
-
-    - `API_HASH`:   You can get this value from https://my.telegram.org
-
-- The userbot will not work without setting the mandatory vars.
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/The-LegendBot/LEGENDUSERBOT/LegendBot/LegendString.py && python3 LegendString.py`
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
+- Your LegendBot Session Will be saved in your Telegram Saved Message.
 
 
-### Official Supports ✅ 
+------
+## Disclaimer
+- We won't be responsible for any kind of ban due to this bot.
+- TutorialBot was made for fun purpose and to make group management easier.
+- It's your concern if you spam and gets your account banned.
+- Also, Forks won't be entertained.
+- If you fork this repo and edit plugins, it's your concern for further updates.
+- Forking Repo is fine. But if you edit something we will not provide any help.
+- In short, Fork At Your Own Risk.
 
+<details>
 
-```
-Get help regarding setting up 
+  <summary> • LICENSE • </summary>
 
-your Aniebots in our official 
+![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-support Group and get updates
+LEGEND-OS
 
-notifications in Update Channel.
-```
+Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
 
-<a href="https://t.me/Aniebots"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+it under the terms of the GNU General Public License as published by
 
-<a href="https://t.me/Aniebotsupports"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+the Free Software Foundation, either version 3 of the License, or
 
+(at your option) any later version.
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/D3nvil)
+This program is distributed in the hope that it will be useful,
 
+but WITHOUT ANY WARRANTY; without even the implied warranty of
 
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 
-<h2> • LICENSE • </h2>
+GNU General Public License for more details.
 
-![LICENSE](https://www.gnu.org/graphics/gplv3-or-later.png)
+You should have received a copy of the GNU General Public License
 
-Copyright (C) 2021 d3nvil 
+along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-Poject [Aniebot](https://github.com/Anieteam/Aniebots) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
-
-
-
-
-  <h2> • Credits 🏅 • </h2>
-
-• [JaaduBot](https://github.com/Amberyt/JaaduBot)
-
-• [CatUserbot](https://github.com/sandy1709/catuserbot)
-
-• [MafiaBot](https://github.com/H1M4N5HU0P/MAFIA-BOT)
-
-• [HellBot](https://github.com/Hellboy-OP/hellbot)
-
-• [Uniborg](https://github.com/spechide/uniborg)
-
-
-
+</details>
