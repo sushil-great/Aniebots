@@ -75,13 +75,13 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate Legend STRING.
+- Generate Anie STRING.
 
 `python AnieString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
-`bash ./LEGENDBOT/start.sh`
+`bash ./Aniebots/start.sh`
 
 ---------
 
