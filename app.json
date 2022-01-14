@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@Aniebotsupports",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@Aniebots",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -141,7 +141,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://repl.it/@Denvilop/Aniebots#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
